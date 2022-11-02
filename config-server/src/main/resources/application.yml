@@ -8,8 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/EnzoFerreira4152/config-server-files
+          uri: https://github.com/EnzoFerreira4152/microservices-practice.git
           default-label: main
           search-paths:
             - config-files
-          

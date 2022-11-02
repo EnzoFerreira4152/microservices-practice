@@ -5,7 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Microservicios.iml" filepath="$PROJECT_DIR$/.idea/Microservicios.iml" />
       <module fileurl="file://$PROJECT_DIR$/C5/caja-ms/caja-ms.iml" filepath="$PROJECT_DIR$/C5/caja-ms/caja-ms.iml" />
       <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C7/consumer-ms/consumer-ms.iml" filepath="$PROJECT_DIR$/C7/consumer-ms/consumer-ms.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C7/product-ms/product-ms.iml" filepath="$PROJECT_DIR$/C7/product-ms/product-ms.iml" />
     </modules>
   </component>
 </project>

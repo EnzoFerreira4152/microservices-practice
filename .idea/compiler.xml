@@ -7,6 +7,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="product-ms" />
+        <module name="consumer-ms" />
         <module name="config-server" />
         <module name="eureka-server" />
         <module name="caja-ms" />
@@ -15,14 +17,18 @@
     <bytecodeTargetLevel>
       <module name="caja-ms" target="17" />
       <module name="config-server" target="17" />
+      <module name="consumer-ms" target="17" />
       <module name="eureka-server" target="11" />
+      <module name="product-ms" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="caja-ms" options="-parameters" />
       <module name="config-server" options="-parameters" />
+      <module name="consumer-ms" options="-parameters" />
       <module name="eureka-server" options="-parameters" />
+      <module name="product-ms" options="-parameters" />
     </option>
   </component>
 </project>
