@@ -16,12 +16,7 @@ public class CajaController {
     private String denominaciones;
 
     @Value("${max_cash}")
-    private Integer cantidadMaxima;
-
-    public CajaController(String denominaciones, Integer cantidadMaxima) {
-        this.denominaciones = denominaciones;
-        this.cantidadMaxima = cantidadMaxima;
-    }
+    private int cantidadMaxima;
 
     @GetMapping("/info")
     public Map<String, Object> consultaDatos(){
