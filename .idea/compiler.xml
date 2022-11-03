@@ -18,7 +18,7 @@
       <module name="caja-ms" target="17" />
       <module name="config-server" target="17" />
       <module name="consumer-ms" target="17" />
-      <module name="eureka-server" target="11" />
+      <module name="eureka-server" target="17" />
       <module name="product-ms" target="17" />
     </bytecodeTargetLevel>
   </component>
