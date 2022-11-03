@@ -3,5 +3,6 @@ spring:
     name: eureka-server
   config:
     import: optional:configserver:http://localhost:8888
-  profiles:
-    active: prd
+    activate:
+      on-profile:
+        - prd

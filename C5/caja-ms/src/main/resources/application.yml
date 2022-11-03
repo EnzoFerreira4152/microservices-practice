@@ -1,8 +1,9 @@
 spring:
   application:
     name: caja-service
+  cloud:
+    config:
+      enabled: true
   config:
-    import: optional:configserver:http://localhost:8888
-    activate:
-      on-profile:
-        - prd
+    import:
+      - configserver:http://localhost:8888
