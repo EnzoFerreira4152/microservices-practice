@@ -31,5 +31,3 @@ C
 api-gateway/pom.xml,2\b\2bfa2b108f2439e99e004f4085b58c22cf995f73
 L
 config-files/api-gateway.yml,e\8\e842639fc5f5e4539df47aa553481aad75d7609c
-T
-$config-files/product-service-prd.yml,9\6\96bd66ba0c9f90c9187881de2c19f1f6e68ecf55
