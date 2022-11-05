@@ -23,15 +23,13 @@ E
 eureka-server/pom.xml,b\3\b39ae52d769ea03b699b5602439afd875433c8a7
 w
 GC7/consumer-ms/src/main/java/com/dh/consumerms/feign/ProductClient.java,a\4\a422674a36ff402d11210a728d32d918261d10a2
-Q
-!config-files/caja-service-prd.yml,4\2\4257918b5ed9579f9b500b27adcf2fc1ec68be36
 U
 %config-files/consumer-service-prd.yml,2\f\2fb4070bb329c1b7d63c3edac1e0146b20d5a3b6
-R
-"config-files/eureka-server-prd.yml,7\9\798ed4ccd0ddc0e2f3bb53d873531dc0c13d1922
 Å
 QC7/consumer-ms/src/main/java/com/dh/consumerms/controller/ConsumerController.java,9\0\907aa37dd41ac93cdb56707e3d950562255d64d4
 C
 api-gateway/pom.xml,2\b\2bfa2b108f2439e99e004f4085b58c22cf995f73
 L
 config-files/api-gateway.yml,e\8\e842639fc5f5e4539df47aa553481aad75d7609c
+T
+$config-files/product-service-prd.yml,9\6\96bd66ba0c9f90c9187881de2c19f1f6e68ecf55
