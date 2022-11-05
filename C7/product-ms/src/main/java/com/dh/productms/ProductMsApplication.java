@@ -40,16 +40,16 @@ public class ProductMsApplication {
 		private ArrayList<String> products = new ArrayList<>();
 		public ArrayList<String> getProducts() {
 
-			products.add("Cartuchos");
-			products.add("Cartuchos color");
+			products.add("Cartucho negro");
+			products.add("Cartucho color");
 			products.add("Silla Gamer");
 			products.add("Escritorio mediano");
 			products.add("Escritorio grande");
 			products.add("Mouse Gamer");
 			products.add("Mouse Pad");
-			products.add("Pantallas 144Hz");
-			products.add("Pantallas 60Hz");
-			products.add("Pantallas 240Hz");
+			products.add("Pantalla 144Hz");
+			products.add("Pantalla 60Hz");
+			products.add("Pantalla 240Hz");
 
 			return products;
 		}

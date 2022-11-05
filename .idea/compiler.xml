@@ -9,12 +9,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="product-ms" />
         <module name="consumer-ms" />
+        <module name="api-gateway" />
         <module name="config-server" />
         <module name="eureka-server" />
         <module name="caja-ms" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="api-gateway" target="17" />
       <module name="caja-ms" target="17" />
       <module name="config-server" target="17" />
       <module name="consumer-ms" target="17" />
@@ -24,6 +26,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="api-gateway" options="-parameters" />
       <module name="caja-ms" options="-parameters" />
       <module name="config-server" options="-parameters" />
       <module name="consumer-ms" options="-parameters" />
